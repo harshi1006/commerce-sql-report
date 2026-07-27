@@ -1,0 +1,5 @@
+status,COUNT(DISTINCT order_id)
+Cancelled,7
+Delivered,43
+Processing,5
+Returned,5
